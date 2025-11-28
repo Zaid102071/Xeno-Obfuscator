@@ -3,7 +3,7 @@
 Xeno Obfuscator is a professional-grade Python code protection system designed to transform readable Python scripts into heavily encrypted, deeply obfuscated, execution-ready code.
 Through multiple layered transformations, randomized encryption orders, and dynamic key generation, Xeno makes source reversal extremely difficult while maintaining full runtime capability.
 
-✨ Features
+## ✨ Features
 🔐 Advanced Multi-Layer Encryption
 
 Multiple stacked protection layers
@@ -16,7 +16,7 @@ Unique keys generated each time
 
 Designed for software protection, security education, and research
 
-⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer
 
 Xeno Obfuscator is built for legitimate security and educational purposes only.
 Users are responsible for ensuring compliance with all relevant laws and cybersecurity guidelines.
